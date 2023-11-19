@@ -38,9 +38,9 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 
 # Site Preview:
-![Screenshot of the hole wab apge](https://github.com/anesMoB/colorPicker.github.io/blob/main/fullDark.jpg?raw=true)
-![Screenshot of the hole wab apge](https://github.com/anesMoB/colorPicker.github.io/blob/main/fullLight.jpg?raw=true)
+![Screenshot of the hole wab apge](https://github.com/anesMoB/colorPicker.github.io/blob/main/fullDark.jpeg?raw=true)
+![Screenshot of the hole wab apge](https://github.com/anesMoB/colorPicker.github.io/blob/main/fullLight.jpeg?raw=true)
 
-![Screenshot of the hole wab apge](https://github.com/anesMoB/colorPicker.github.io/blob/main/smallDark.jpg?raw=true)
-![Screenshot of the hole wab apge](https://github.com/anesMoB/colorPicker.github.io/blob/main/smallLight.jpg?raw=true)
+![Screenshot of the hole wab apge](https://github.com/anesMoB/colorPicker.github.io/blob/main/smallDark.jpeg?raw=true)
+![Screenshot of the hole wab apge](https://github.com/anesMoB/colorPicker.github.io/blob/main/smallLight.jpeg?raw=true)
 

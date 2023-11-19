@@ -1,0 +1,66 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+app{
+  max-width: 1540px;
+}
+
+
+/* -------- */
+
+.darkStyle{
+  background-color: black;
+  color: white
+}
+.lightStyle{
+  background-color: white;
+  color: black
+}
+
+.darkSwitch{
+  background-color: #030121;
+  box-shadow: 1px 1px 8px 2px #090254;
+
+} 
+.darkSwitchRound{
+  border-radius: 80%;
+  box-shadow: 1px 1px 8px 2px #090254;
+  background-color: #030121;
+  animation: toggleToDark 0.5s ease-in-out forwards;
+} 
+@keyframes toggleToLight {
+  0%{
+    transform: translateX(-10px);
+  }
+  100%{
+    transform: translateX(40px);
+  }
+}
+
+.lightSwitch{
+  box-shadow: 1px 1px 8px 2px  #f1c232;
+  background-color: rgb(179, 182, 2);
+
+}
+.lightSwitchRound{
+  border-radius: 50%;
+  box-shadow: 1px 1px 8px 2px  #f1c232;
+  background-color: rgb(179, 182, 2);
+  animation: toggleToLight 0.5s ease-in-out forwards;
+}
+@keyframes toggleToDark {
+  0%{
+    transform: translateX(40px);
+  }
+  100%{
+    transform: translateX(-10px);
+
+  }
+}

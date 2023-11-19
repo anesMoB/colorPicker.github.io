@@ -1,8 +1,6 @@
-import { Inter } from 'next/font/google'
 import { ThemeProvider } from '@/context/context_provider'
 import '@/app/globals.css'
 
-const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
   title: 'Color Picker',
